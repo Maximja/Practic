@@ -1,0 +1,3 @@
+C:/Users/xyilo/CLionProjects/xyinya/cmake-build-debug/CMakeFiles/xyinya.dir
+C:/Users/xyilo/CLionProjects/xyinya/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xyilo/CLionProjects/xyinya/cmake-build-debug/CMakeFiles/rebuild_cache.dir
